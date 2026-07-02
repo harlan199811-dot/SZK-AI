@@ -99,6 +99,9 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
+    - id: "youtube"
+      name: "油管"
+      expected_domain: "youtube.com"  
 
 
 
